@@ -1,0 +1,31 @@
+body{
+    width: 70%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    text-align: center;
+    border-bottom: solid 2px orange;
+    background-color: #eeeeee;
+}
+header h1{
+    font-weight: 300;
+}
+
+img {
+    width: 20%;
+}
+
+main{
+    border-bottom: solid 2px orange;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+main section h2{
+    color: orange;
+}
+.item h3{
+    font-style: italic;
+}
